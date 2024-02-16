@@ -1,0 +1,36 @@
+
+.container { /* Add padding and margin to the container */
+    padding: 20px;
+    margin-top: 20px;
+}
+
+
+.border-rounded {/* Style for the form */
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.table-container {/* Style for the table */
+
+    margin-top: 20px;
+}
+
+.table-bordered {
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+}
+
+.text-center th, /* Center align table content */
+
+.text-center td {
+    text-align: center;
+}
+
+.submitClear{
+    margin: 0px 0px 5px 230px;
+}
